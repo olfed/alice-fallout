@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mood>
+    <sad>
+        <word>плохо</word>
+        <word>задумчиво</word>
+        <word>печально</word>
+        <word>горько</word>
+        <word>мрачно</word>
+        <word>жалобно</word>
+        <word>тоскливо</word>
+        <word>уныло</word>
+    </sad>
+</mood>
