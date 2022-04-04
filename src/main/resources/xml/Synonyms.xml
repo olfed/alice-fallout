@@ -258,4 +258,11 @@
     <time>часов</time>
     <time>число</time>
     <time>дата</time>
+    <time>год</time>
+
+    <hello>привет</hello>
+    <hello>здравствуй</hello>
+    <hello>здарова</hello>
+    <hello>приветствую</hello>
+    <hello>здрасьте</hello>
 </mood>
