@@ -21,7 +21,7 @@ public class Client{
         BufferedReader bufferedReader = new BufferedReader(inputStream);
 
         String str = bufferedReader.readLine();
-        System.out.println("server - " + str);
+        System.out.println("Сервер - " + str);
         if (str.equals("Я не поняла о чём вы. Скажите пожалуйста, к какой категории относится ваше предложение? (sad, happy или другое)")){
             input = in.nextLine();
             printWriter = new PrintWriter(socket.getOutputStream());
